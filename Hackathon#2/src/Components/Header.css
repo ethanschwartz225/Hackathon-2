@@ -1,0 +1,23 @@
+.Main-header {
+    font-size:2em;
+    background-color: #282c34;
+    color:white;
+    margin:0 0;
+    padding:0.5em;
+}
+
+.header {
+   font-size:2em;
+    background-color: #282c34;
+    color:white;
+    margin:0 0;
+    padding:0;
+}
+
+.Sub-header {
+    font-size:1em;
+    background-color: #282c34;
+    color: magenta;
+    margin:0;
+    padding:0;
+}

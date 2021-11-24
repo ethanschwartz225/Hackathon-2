@@ -1,0 +1,38 @@
+* {
+    transition-duration: 0.3s;
+    box-sizing: border-box;
+}
+
+#zipForm {
+    width:fit-content;
+    align-self: center;
+    margin:2em auto;
+    border:1px solid lightgray;
+    border-radius: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.inputZip {
+    padding:1em;
+    border:none;
+    font-size:1.5em;
+    border-radius: 15px 0 0 15px;
+    outline:none;
+
+}
+
+.goButton {
+    padding:1em;
+    border:none;
+    background-color: #282c34;
+    color: magenta;
+    font-size: 1.5em;
+    border-radius: 0 15px 15px 0;
+}
+
+.goButton:hover {
+    background-color: magenta;
+    color: #282c34;
+    cursor: pointer;
+}
